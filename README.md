@@ -22,6 +22,7 @@ Residuals
 ![alt text](https://raw.githubusercontent.com/adarsh9pai/CustomerECommercePreference/master/Residuals.png?token=ANlK4qy5A3wkGMAUaP861ZFupB85koAFks5bJgNGwA%3D%3D)
 
 Coefficients
+
 ![alt text](https://raw.githubusercontent.com/adarsh9pai/CustomerECommercePreference/master/Coefficients.png?token=ANlK4rY7auXK17aZRZmPCJJRKAboQc1tks5bJgOWwA%3D%3D)
 
 # Conclusion
