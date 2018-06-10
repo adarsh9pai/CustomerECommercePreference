@@ -15,7 +15,14 @@ Time Spent on Website vs Yearly Amount Spent
 Pairplot
 ![alt text](https://raw.githubusercontent.com/adarsh9pai/CustomerECommercePreference/master/pairplot.png?token=ANlK4i34zFe4YXF7PUHtUn_YltLv6hoXks5bJgJqwA%3D%3D)
 
-![alt text](https://raw.githubusercontent.com/adarsh9pai/CustomerECommercePreference/master/pairplot.png?token=ANlK4l_ldODy_OnrXAW3QqZ46DIzoQLAks5bJfXRwA%3D%3D)
-
 Prediction Accuracy on Testing Data
 ![alt text](https://raw.githubusercontent.com/adarsh9pai/CustomerECommercePreference/master/PredictionAccuracyTestData.png?token=ANlK4rKET3ykWRD-hmG3a8LdvXKtWOdkks5bJf3uwA%3D%3D)
+
+Residuals
+![alt text](https://raw.githubusercontent.com/adarsh9pai/CustomerECommercePreference/master/Residuals.png?token=ANlK4qy5A3wkGMAUaP861ZFupB85koAFks5bJgNGwA%3D%3D)
+
+Coefficients
+![alt text](https://raw.githubusercontent.com/adarsh9pai/CustomerECommercePreference/master/Coefficients.png?token=ANlK4rY7auXK17aZRZmPCJJRKAboQc1tks5bJgOWwA%3D%3D)
+
+# Conclusion
+In the case of the sample dataset being used, The mobile application seems to perform better than the company's website. 
