@@ -16,3 +16,6 @@ Pairplot
 
 
 ![alt text](https://raw.githubusercontent.com/adarsh9pai/CustomerECommercePreference/master/pairplot.png?token=ANlK4l_ldODy_OnrXAW3QqZ46DIzoQLAks5bJfXRwA%3D%3D)
+
+Prediction Accuracy on Testing Data
+![alt text](https://raw.githubusercontent.com/adarsh9pai/CustomerECommercePreference/master/PredictionAccuracyTestData.png?token=ANlK4rKET3ykWRD-hmG3a8LdvXKtWOdkks5bJf3uwA%3D%3D)
