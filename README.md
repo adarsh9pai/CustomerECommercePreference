@@ -13,4 +13,6 @@ Time Spent on Website vs Yearly Amount Spent
 ![alt text](https://raw.githubusercontent.com/adarsh9pai/CustomerECommercePreference/master/TimeSpentOnWebsitevYearlyAmountSpent.png?token=ANlK4qwjM2-qY68Q4TxmrpF63BFM2AfAks5bJfW7wA%3D%3D)
 
 Pairplot
+
+
 ![alt text](https://raw.githubusercontent.com/adarsh9pai/CustomerECommercePreference/master/pairplot.png?token=ANlK4l_ldODy_OnrXAW3QqZ46DIzoQLAks5bJfXRwA%3D%3D)
